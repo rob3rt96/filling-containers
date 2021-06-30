@@ -1,6 +1,6 @@
 # The Filling Containers app
 
-This is a experimental app where I tried my best to use some of the JavaFX tools.
+This is an experimental app where I tried my best to use some of the JavaFX tools.
 
 It is a simple program, where you can add, transfer and remove "liquid" between two containers.
 
